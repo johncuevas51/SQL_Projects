@@ -1,1 +1,1 @@
-# SQL_Project1_Covid
+# SQL_Portfolio_Projects
